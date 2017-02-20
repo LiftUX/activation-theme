@@ -1,6 +1,1 @@
-node_modules
-/.DS_Store
-/templates/parts/.DS_Store
-/templates/.DS_Store
-/.dev/sass/.DS_Store
-/.dev/.DS_Store
+.dev/lib/gitignore
